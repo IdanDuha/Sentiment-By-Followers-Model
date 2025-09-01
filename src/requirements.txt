@@ -1,0 +1,9 @@
+textblob
+transformers
+nltk
+pandas
+scipy
+torch
+xgboost
+numpy
+scikit-learn
